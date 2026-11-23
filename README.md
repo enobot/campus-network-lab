@@ -194,7 +194,9 @@ screenshots/      Real Packet Tracer screenshots (added after the build)
 packet-tracer/    The saved .pkt file (added after the build)
 ```
 
-## License
+## Credits and license
+
+Created by Nathanael Haig and Tracy Tran.
 
 [MIT](LICENSE). Halcyon Ridge University and every name, address and
 device in this lab are fictional. The configs contain lab-only placeholder
